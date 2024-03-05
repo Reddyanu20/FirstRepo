@@ -2,7 +2,8 @@
 
 Class index
 {
-    pkublic static void main (srtring [] args)
-
-    System.out.println("Hello world");
+    public static void main (srtring [] args)
+     {
+          System.out.println("Hello world");
+     }
 }
